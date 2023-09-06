@@ -1,0 +1,861 @@
+[
+    {
+        "id": "unique-uuid-2",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=1",
+        "role": "Operators",
+        "subRole": "Dump Trucks",
+        "status": "Available",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1840",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-08",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1840",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-10",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1840",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0154",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-02",
+                "status": "late",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0702",
+                        "timeEnd": "1900",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1800",
+                        "type": "bonus",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-04",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1000",
+                        "timeEnd": "1500",
+                        "type": "ordinary",
+                        "tags": ["smoke"]
+                    },
+                    {
+                        "timeStart": "1500",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-05",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-06",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0800",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1500",
+                        "type": "sick",
+                        "tags": ["eat"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-07",
+                "status": "late",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0700",
+                        "type": "bonus",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "unique-uuid-3",
+        "name": "Davis Carder",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Wheel Loaders",
+        "status": "In Progress",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-09",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-11",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1900",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "1400",
+                        "timeEnd": "2200",
+                        "type": "bonus",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-05",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-07",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "unique-uuid-4",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=2",
+        "role": "Operators",
+        "subRole": "Excavators",
+        "status": "Assigned",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0812",
+                        "timeEnd": "2000",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-02",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1900",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0340",
+                        "timeEnd": "1400",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-04",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1000",
+                        "timeEnd": "1500",
+                        "type": "ordinary",
+                        "tags": ["smoke"]
+                    },
+                    {
+                        "timeStart": "1500",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-05",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-06",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0800",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1500",
+                        "type": "sick",
+                        "tags": ["eat"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-07",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "unique-uuid-2",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=1",
+        "role": "Operators",
+        "subRole": "Dump Trucks",
+        "status": "Available",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0823",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-02",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1900",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0920",
+                        "timeEnd": "1830",
+                        "type": "overtime",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "1400",
+                        "timeEnd": "1800",
+                        "type": "bonus",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-04",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1000",
+                        "timeEnd": "1500",
+                        "type": "ordinary",
+                        "tags": ["smoke"]
+                    },
+                    {
+                        "timeStart": "1500",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-05",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-06",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0800",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1500",
+                        "type": "sick",
+                        "tags": ["eat"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-07",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-08",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0800",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1500",
+                        "type": "sick",
+                        "tags": ["eat"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-10",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-12",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "unique-uuid-3",
+        "name": "Davis Carder",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Wheel Loaders",
+        "status": "In Progress",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0834",
+                        "timeEnd": "2200",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0100",
+                        "timeEnd": "0500",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0900",
+                        "timeEnd": "2000",
+                        "type": "overtime",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "1400",
+                        "timeEnd": "1800",
+                        "type": "bonus",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-05",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+
+            {
+                "date": "2021-07-07",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "unique-uuid-4",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=2",
+        "role": "Operators",
+        "subRole": "Excavators",
+        "status": "Assigned",
+        "attendance": [
+            {
+                "date": "2021-06-30",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": ["eat", "smoke"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-01",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0245",
+                        "timeEnd": "1800",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-02",
+                "status": "late",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1100",
+                        "timeEnd": "1900",
+                        "type": "ordinary",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-03",
+                "status": "",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0900",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0900",
+                        "timeEnd": "1400",
+                        "type": "overtime",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "1400",
+                        "timeEnd": "1830",
+                        "type": "bonus",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-04",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1000",
+                        "timeEnd": "1500",
+                        "type": "ordinary",
+                        "tags": ["smoke"]
+                    },
+                    {
+                        "timeStart": "1500",
+                        "timeEnd": "1800",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-05",
+                "status": "sick",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "1200",
+                        "timeEnd": "2100",
+                        "type": "ordinary",
+                        "tags": []
+                    },
+                    {
+                        "timeStart": "2100",
+                        "timeEnd": "2300",
+                        "type": "overtime",
+                        "tags": []
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-06",
+                "status": "late",
+                "isApproved": false,
+                "times": [
+                    {
+                        "timeStart": "0500",
+                        "timeEnd": "0800",
+                        "type": "ordinary",
+                        "tags": ["eat"]
+                    },
+                    {
+                        "timeStart": "0800",
+                        "timeEnd": "1500",
+                        "type": "sick",
+                        "tags": ["eat"]
+                    }
+                ]
+            },
+            {
+                "date": "2021-07-07",
+                "status": "",
+                "isApproved": true,
+                "times": [
+                    {
+                        "timeStart": "0700",
+                        "timeEnd": "1800",
+                        "type": "sick",
+                        "tags": []
+                    }
+                ]
+            }
+        ]
+    }
+]

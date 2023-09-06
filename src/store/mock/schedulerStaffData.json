@@ -1,0 +1,226 @@
+[
+    {
+        "id": "unique-uuid-2",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=1",
+        "role": "Operators",
+        "subRole": "Dump Trucks",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-3",
+        "name": "Davis Carder",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Wheel Loaders",
+        "status": "In Progress"
+    },
+    {
+        "id": "unique-uuid-4",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=2",
+        "role": "Operators",
+        "subRole": "Excavators",
+        "status": "Assigned"
+    },
+    {
+        "id": "unique-uuid-5",
+        "name": "Zaire Carder",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Skidsteers",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-6",
+        "name": "Jakob Torff",
+        "image": "https://i.pravatar.cc/32?c=3",
+        "role": "Operators",
+        "subRole": "Dump Trucks",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-7",
+        "name": "Jaylon Vetrovs",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Excavators",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-8",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=4",
+        "role": "Operators",
+        "subRole": "Wheel Loaders",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-9",
+        "name": "Jakob Workman",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Excavators",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-10",
+        "name": "Cooper Culhane",
+        "image": "",
+        "role": "Operators",
+        "subRole": "Wheel Loaders",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-11",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=5",
+        "role": "Labourer",
+        "subRole": "Excavators",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-12",
+        "name": "Davis Carder",
+        "image": "",
+        "role": "Labourer",
+        "subRole": "Excavators",
+        "status": "In Progress"
+    },
+    {
+        "id": "unique-uuid-13",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=6",
+        "role": "Labourer",
+        "subRole": "Skidsteers",
+        "status": "Assigned"
+    },
+    {
+        "id": "unique-uuid-14",
+        "name": "Zaire Carder",
+        "image": "",
+        "role": "Labourer",
+        "subRole": "Backhoes",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-15",
+        "name": "Jakob Torff",
+        "image": "https://i.pravatar.cc/32?c=7",
+        "role": "Labourer",
+        "subRole": "Backhoes",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-16",
+        "name": "Jaylon Vetrovs",
+        "image": "",
+        "role": "Labourer",
+        "subRole": "Excavators",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-17",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=8",
+        "role": "Labourer",
+        "subRole": "Excavators",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-18",
+        "name": "Jakob Workman",
+        "image": "",
+        "role": "Labourer",
+        "subRole": "Skidsteers",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-19",
+        "name": "Cooper Culhane",
+        "image": "",
+        "role": "Labourer",
+        "subRole": "Excavators",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-20",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=9",
+        "role": "Boilermaker",
+        "subRole": "Backhoes",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-21",
+        "name": "Davis Carder",
+        "image": "",
+        "role": "Boilermaker",
+        "subRole": "Backhoes",
+        "status": "In Progress"
+    },
+    {
+        "id": "unique-uuid-22",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=10",
+        "role": "Boilermaker",
+        "subRole": "Excavators",
+        "status": "Assigned"
+    },
+    {
+        "id": "unique-uuid-23",
+        "name": "Zaire Carder",
+        "image": "",
+        "role": "Boilermaker",
+        "subRole": "Backhoes",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-24",
+        "name": "Jakob Torff",
+        "image": "https://i.pravatar.cc/32?c=11",
+        "role": "Labourer",
+        "subRole": "Wheel Loaders",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-25",
+        "name": "Jaylon Vetrovs",
+        "image": "",
+        "role": "Boilermaker",
+        "subRole": "Backhoes",
+        "status": "Available"
+    },
+    {
+        "id": "unique-uuid-26",
+        "name": "Marcus Levin",
+        "image": "https://i.pravatar.cc/32?c=12",
+        "role": "Boilermaker",
+        "subRole": "Dump Trucks",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-27",
+        "name": "Jakob Workman",
+        "image": "",
+        "role": "Boilermaker",
+        "subRole": "Excavators",
+        "status": "Unassigned"
+    },
+    {
+        "id": "unique-uuid-28",
+        "name": "Cooper Culhane",
+        "image": "",
+        "role": "Boilermaker",
+        "subRole": "Skidsteers",
+        "status": "Leave"
+    },
+    {
+        "id": "unique-uuid-1",
+        "name": "Carter Franci",
+        "image": "https://i.pravatar.cc/32?c=13",
+        "role": "Managing Director",
+        "subRole": "Director",
+        "status": "Available"
+    }
+]

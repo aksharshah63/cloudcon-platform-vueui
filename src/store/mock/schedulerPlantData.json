@@ -1,0 +1,378 @@
+[
+  {
+    "id": "unique-uuid-1",
+    "name": "J89J-5",
+    "category": "Trucks",
+    "subCategory": "6-10 Ton",
+    "details": "41 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-2",
+    "name": "65CVXRT4-84",
+    "category": "Excavators",
+    "subCategory": "10-15 Ton",
+    "details": "42 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-3",
+    "name": "XC5EW463-46",
+    "category": "Backhoes",
+    "subCategory": "1-5 Ton",
+    "details": "43 ton",
+    "status": "Unavailable"
+  },
+  {
+    "id": "unique-uuid-4",
+    "name": "XC465ERW-35",
+    "category": "Wheel Loaders",
+    "subCategory": "6-10 Ton",
+    "details": "44 ton",
+    "status": "Unavailable"
+  },
+  {
+    "id": "unique-uuid-5",
+    "name": "CVXGFTRY6E54W3-84",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "45 ton",
+    "status": "Ready For Invoice"
+  },
+  {
+    "id": "unique-uuid-6",
+    "name": "53WE4XZ-225",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "46 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-7",
+    "name": "XC5643WE-79",
+    "category": "Backhoes",
+    "subCategory": "1-5 Ton",
+    "details": "47 ton",
+    "status": "For Review"
+  },
+  {
+    "id": "unique-uuid-8",
+    "name": "65XCR4E3W-98",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "1 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-9",
+    "name": "6X54R3EW-65",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "2 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-10",
+    "name": "XC654T3REW-662",
+    "category": "Backhoes",
+    "subCategory": "10-15 Ton",
+    "details": "3 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-11",
+    "name": "6543WEXC-31",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "4 ton",
+    "status": "Ready For Invoice"
+  },
+  {
+    "id": "unique-uuid-12",
+    "name": "5634WEXCCVEW534-454",
+    "category": "Excavators",
+    "subCategory": "10-15 Ton",
+    "details": "5 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-13",
+    "name": "XCEW4563-555",
+    "category": "Wheel Loaders",
+    "subCategory": "6-10 Ton",
+    "details": "6 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-14",
+    "name": "XC5WE3S-787",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "7 ton",
+    "status": "For Review"
+  },
+  {
+    "id": "unique-uuid-15",
+    "name": "5643WEXC-945",
+    "category": "Wheel Loaders",
+    "subCategory": "10-15 Ton",
+    "details": "8 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-16",
+    "name": "XC5643W-25",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "9 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-17",
+    "name": "XC5634WE-3584",
+    "category": "Backhoes",
+    "subCategory": "6-10 Ton",
+    "details": "10 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-18",
+    "name": "XC45E3W-754",
+    "category": "Skidsteers",
+    "subCategory": "10-15 Ton",
+    "details": "11 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-19",
+    "name": "XC53W4-864",
+    "category": "Skidsteers",
+    "subCategory": "16-20 Ton",
+    "details": "12 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-20",
+    "name": "XC53W-2",
+    "category": "Backhoes",
+    "subCategory": "1-5 Ton",
+    "details": "13 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-21",
+    "name": "XC564-154",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "14 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-22",
+    "name": "6T45R3EW-774445",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "15 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-23",
+    "name": "6534EW-154",
+    "category": "Wheel Loaders",
+    "subCategory": "10-15 Ton",
+    "details": "16 ton",
+    "status": "Ready For Invoice"
+  },
+  {
+    "id": "unique-uuid-24",
+    "name": "XCV43EW5-8456",
+    "category": "Backhoes",
+    "subCategory": "16-20 Ton",
+    "details": "17 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-25",
+    "name": "XC4365W-784",
+    "category": "Backhoes",
+    "subCategory": "16-20 Ton",
+    "details": "18 ton",
+    "status": "For Review"
+  },
+  {
+    "id": "unique-uuid-26",
+    "name": "XC5634W-524",
+    "category": "Wheel Loaders",
+    "subCategory": "10-15 Ton",
+    "details": "19 ton",
+    "status": "Unavailable"
+  },
+  {
+    "id": "unique-uuid-27",
+    "name": "XC5634W-9",
+    "category": "Backhoes",
+    "subCategory": "6-10 Ton",
+    "details": "20 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-28",
+    "name": "X56C43WE-545",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "21 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-29",
+    "name": "5643W6XC-84",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "22 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-30",
+    "name": "543WEXC-242",
+    "category": "Skidsteers",
+    "subCategory": "6-10 Ton",
+    "details": "23 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-31",
+    "name": "5W34E-3",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "24 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-32",
+    "name": "5634WEXC-564",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "25 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-33",
+    "name": "4EW563R-854",
+    "category": "Wheel Loaders",
+    "subCategory": "16-20 Ton",
+    "details": "26 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-34",
+    "name": "WE534-45",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "27 ton",
+    "status": "For Review"
+  },
+  {
+    "id": "unique-uuid-35",
+    "name": "XCW35-98",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "28 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-36",
+    "name": "56CXW34E-159",
+    "category": "Wheel Loaders",
+    "subCategory": "6-10 Ton",
+    "details": "29 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-37",
+    "name": "6C543EXW-954",
+    "category": "Wheel Loaders",
+    "subCategory": "10-15 Ton",
+    "details": "30 ton",
+    "status": "For Review"
+  },
+  {
+    "id": "unique-uuid-38",
+    "name": "X5C643WE-97459159",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "31 ton",
+    "status": "Error"
+  },
+  {
+    "id": "unique-uuid-39",
+    "name": "56XC34EW-195123",
+    "category": "Skidsteers",
+    "subCategory": "16-20 Ton",
+    "details": "32 ton",
+    "status": "Ready For Invoice"
+  },
+  {
+    "id": "unique-uuid-40",
+    "name": "5643EW-454",
+    "category": "Trucks",
+    "subCategory": "16-20 Ton",
+    "details": "33 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-41",
+    "name": "5XC436WE-154597",
+    "category": "Skidsteers",
+    "subCategory": "16-20 Ton",
+    "details": "34 ton",
+    "status": "Invoiced"
+  },
+  {
+    "id": "unique-uuid-42",
+    "name": "WEDCXS345-458",
+    "category": "Trucks",
+    "subCategory": "1-5 Ton",
+    "details": "35 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-43",
+    "name": "XC563WE4-9781",
+    "category": "Excavators",
+    "subCategory": "6-10 Ton",
+    "details": "36 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-44",
+    "name": "XC53W4EC354WE-5489",
+    "category": "Excavators",
+    "subCategory": "1-5 Ton",
+    "details": "37 ton",
+    "status": "Unavailable"
+  },
+  {
+    "id": "unique-uuid-45",
+    "name": "SD5FG-15",
+    "category": "Backhoes",
+    "subCategory": "6-10 Ton",
+    "details": "38 ton",
+    "status": "Available"
+  },
+  {
+    "id": "unique-uuid-46",
+    "name": "8G78G987-156",
+    "category": "Backhoes",
+    "subCategory": "1-5 Ton",
+    "details": "39 ton",
+    "status": "Ready"
+  },
+  {
+    "id": "unique-uuid-47",
+    "name": "VGHVC3EF-78156",
+    "category": "Wheel Loaders",
+    "subCategory": "1-5 Ton",
+    "details": "40 ton",
+    "status": "Unavailable"
+  }
+]

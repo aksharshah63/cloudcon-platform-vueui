@@ -1,0 +1,56 @@
+{
+  "client": "munse",
+  "module": "dashboard",
+  "selection":
+  {
+    "0": "MYCOOLKEY"
+  },
+  "persistence":
+  {
+    "model": {
+      "dropzone": {
+        "title": "",
+        "lastBuildDate": "",
+        "schema": [],
+        "data": [
+          {
+            "id": "1",
+            "width": 6,
+            "order": 1
+          },
+          {
+            "id": "2",
+            "width": 6,
+            "order": 0
+          }
+        ]
+      },
+
+      "dashlet": {
+        "title": "",
+        "lastBuildDate": "",
+        "schema": [],
+        "data": [
+          {
+            "id": "1",
+            "type": "bar-chart",
+            "config": "{\"title\": \"test\"}",
+            "dataConfig": "{\"source\": \"sales\"}",
+            "dropzoneid": "2",
+            "order": 0
+          },
+          {
+            "id": "2",
+            "type": "horizontal-bar-chart",
+            "config": "{\"title\": \"test2\"}",
+            "dataConfig": "{}",
+            "dropzoneid": "2",
+            "order": 1
+          }
+        ]
+      }
+    }
+  },
+  "definition": null,
+  "globalSearch": null
+}

@@ -1,0 +1,3 @@
+[submodule "cloudconLibrary"]
+	path = cloudconLibrary
+	url = https://bitbucket.org/cloudcon-product-development/cloudcon-frontend-library/src/master/

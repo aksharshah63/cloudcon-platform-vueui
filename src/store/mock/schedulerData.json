@@ -1,0 +1,587 @@
+[
+  {
+    "id": "project1idhere",
+    "name": "Project 1",
+    "jobs": [
+      {
+        "id": "idhereforjob1",
+        "projectId": "project1idhere",
+        "name": "Job 3-10",
+        "type": "Dry Hire",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624606213000",
+        "endDate": "1624631413000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob2",
+        "projectId": "project1idhere",
+        "name": "Job 0",
+        "type": "Dry Hire",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624558093000",
+        "endDate": "1624601293000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob3",
+        "projectId": "project1idhere",
+        "name": "Job 00",
+        "type": "Labouring",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624608493000",
+        "endDate": "1624622893000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob4",
+        "projectId": "project1idhere",
+        "name": "Job 000",
+        "type": "Consignment",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624565293000",
+        "endDate": "1624622893000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob5",
+        "projectId": "project1idhere",
+        "name": "Job 111",
+        "type": "Wet Hire",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624554493000",
+        "endDate": "1624568893000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob6",
+        "projectId": "project1idhere",
+        "name": "Job 1",
+        "type": "Dry Hire",
+        "status": "active",
+        "staff": 5,
+        "plant": 10,
+        "startDate": "1624609185000",
+        "endDate": "1624652385000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob7",
+        "projectId": "project1idhere",
+        "name": "Job 2",
+        "type": "Training",
+        "status": "inactive",
+        "staff": 5,
+        "plant": 7,
+        "startDate": "1624655985000",
+        "endDate": "1624681185000",
+        "assignees": [
+          {
+            "name": "Tara May",
+            "image": ""
+          },
+          {
+            "name": "Chris",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob8",
+        "projectId": "project1idhere",
+        "name": "Job 3",
+        "type": "Wet Hire",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624587585000",
+        "endDate": "1624627185000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob9",
+        "projectId": "project1idhere",
+        "name": "Job TEST",
+        "type": "Wet Hire",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624590493000",
+        "endDate": "1624606213000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob10",
+        "projectId": "project1idhere",
+        "name": "Job FINALL",
+        "type": "Wet Hire",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624560386000",
+        "endDate": "1624603586000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob11",
+        "projectId": "project1idhere",
+        "name": "Hello",
+        "type": "Dry Hire",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624572026000",
+        "endDate": "1624586426000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob12",
+        "projectId": "project1idhere",
+        "name": "Long Date",
+        "type": "Induction",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624550426000",
+        "endDate": "1624723226000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob13",
+        "projectId": "project1idhere",
+        "name": "One More Date",
+        "type": "Training",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624496426000",
+        "endDate": "1624582826000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 2",
+        "type": "Wet Hire",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1624586426001",
+        "endDate": "1624629626000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 2",
+        "type": "Wet Day",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625068800000",
+        "endDate": "1625241540000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 2",
+        "type": "No Charge",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625068800000",
+        "endDate": "1625327940000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 2",
+        "type": "Breakdown / R&M",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625155200000",
+        "endDate": "1625414340000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 2",
+        "type": "On Site - Need Pick-up",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625155200000",
+        "endDate": "1625414340000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 24",
+        "type": "Induction",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625500800000",
+        "endDate": "1625587140000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob14",
+        "projectId": "project1idhere",
+        "name": "One More Date 24",
+        "type": "Induction",
+        "status": "hold",
+        "staff": 9,
+        "plant": 10,
+        "startDate": "1625500800000",
+        "endDate": "1625673540000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "project2uuid",
+    "name": "Project 2",
+    "jobs": [
+      {
+        "id": "idhereforjob15",
+        "projectId": "project2uuid",
+        "name": "Job 4",
+        "type": "Induction",
+        "status": "stop",
+        "staff": 2,
+        "plant": 5,
+        "startDate": "1624609185000",
+        "endDate": "1624652385000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob16",
+        "projectId": "project2uuid",
+        "name": "Job 444",
+        "type": "Induction",
+        "status": "stop",
+        "staff": 2,
+        "plant": 5,
+        "startDate": "1624609160000",
+        "endDate": "1624631413000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob17",
+        "projectId": "project2uuid",
+        "name": "Job 5",
+        "type": "Sub Contractor",
+        "status": "active",
+        "staff": 3,
+        "plant": 7,
+        "startDate": "1624655985000",
+        "endDate": "1624681185000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob18",
+        "projectId": "project2uuid",
+        "name": "Job 6",
+        "type": "Consignment",
+        "status": "hold",
+        "staff": 8,
+        "plant": 5,
+        "startDate": "1624587585000",
+        "endDate": "1624627185000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thisirproject3uuid",
+    "name": "Project 3",
+    "jobs": [
+      {
+        "id": "idhereforjob19",
+        "projectId": "thisirproject3uuid",
+        "name": "Job 7",
+        "type": "Labouring",
+        "status": "inactive",
+        "staff": 2,
+        "plant": 9,
+        "startDate": "1624609185000",
+        "endDate": "1624652385000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob20",
+        "projectId": "thisirproject3uuid",
+        "name": "Job 8",
+        "type": "Stand Down",
+        "status": "inactive",
+        "staff": 9,
+        "plant": 8,
+        "startDate": "1624655985000",
+        "endDate": "1624681185000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "idhereforjob21",
+        "projectId": "thisirproject3uuid",
+        "name": "Job 9",
+        "type": "Dry Hire",
+        "status": "active",
+        "staff": 0,
+        "plant": 50,
+        "startDate": "1624587585000",
+        "endDate": "1624627185000",
+        "assignees": [
+          {
+            "name": "Ace Maranga",
+            "image": ""
+          },
+          {
+            "name": "Ryan Kam",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  }
+]

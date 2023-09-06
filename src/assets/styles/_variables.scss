@@ -1,0 +1,391 @@
+/*
+	variables
+*/
+
+$white: #FFFFFF;
+$black: #000000;
+$grey: #EEEEEE;
+$grey2: #F6F6F6;
+$grey3: #333333;
+$grey4: #E8E8E8;
+$grey5: #DDDDDD;
+$grey6: #999999;
+$grey7: #30363C;
+$grey8: #CCCCCC;
+$grey9:#666666;
+$grey10: #FAFAFA;
+$blue: #007FFF;
+$blue2: #E3F2FD;
+$blue3: #08C3EC;
+$green:#61E24B;
+$green2: #93C900;
+$green3: #00A300;
+$red: #F14D29;
+$red2: #FA8B73;
+$orange: #FFAA1C;
+$yellow: #F0DC00;
+$yellow2: #DECB00;
+$yellow3: #C9B800;
+$yellow4: #EDBD13;
+
+$inputTextColor: red;
+
+/*
+Severity buttons variables
+*/
+
+$veryLowSeverityColor: $green3;
+$lowSeverityColor: $green2;
+$mediumSeverityColor: $yellow;
+$highSeverityColor: $orange;
+$ExtremeSeverityColor: $red;
+
+/*
+50 colours for processing and fabrication tables
+*/
+
+$colour1: #F7D9C4;
+$colour2: #FAEDCB;
+$colour3: #C9E4DE;
+$colour4: #C6DEF1;
+$colour5: #DBCDF0;
+
+
+/* NEW VARIABLES STRUCTURE */
+
+:root {
+  /* Colour Variables */
+  --white: #FFFFFF;
+  --black: #000000;
+
+  --grey-100: #FAFAFA;
+  --grey-200: #F4F4F4;
+  --grey-300: #EEEEEE;
+  --grey-400: #DDDDDD;
+  --grey-500: #CCCCCC;
+  --grey-600: #BBBBBB;
+  --grey-700: #AAAAAA;
+  --grey-800: #999999;
+  --grey-900: #888888;
+  --grey-1000: #777777;
+  --grey-1100: #666666;
+  --grey-1200: #555555;
+  --grey-1300: #444444;
+  --grey-1400: #333333;
+  --grey-1500: #222222;
+  --grey-1600: #111111;
+  --grey-1700: #f5f5f5;
+  --grey-1800: #333333;
+  --grey-1900: #30363C;
+  --grey-2000: #f2f2f2;
+
+  --blue-300: #DEEFFF;
+  --blue-400: #C2E1FF;
+  --blue-500: #A7D3FF;
+  --blue-600: #8BC5FF;
+  --blue-700: #6FB7FF;
+  --blue-800: #53A9FF;
+  --blue-900: #389BFF;
+  --blue-1000: #1C8DFF;
+  --blue-1100: #007FFF; /* Cloudcon blue */
+
+  --red-300: #FEEDEA;
+  --red-400: #FDDBD5;
+  --red-500: #FCC9C0;
+  --red-600: #FAB7AA;
+  --red-700: #F9A595;
+  --red-800: #F7937F;
+  --red-900: #F6826A;
+  --red-1000:#F47054;
+  --red-1100:#F35F3F;
+  --red-1200: #F14D29;
+
+  /* Theme variables */
+  --primary-colour: var(--blue-1100);
+
+  --light-lightest-colour: var(--grey-300);
+  --light-lighter-colour: var(--grey-400);
+  --light-light-colour: var(--grey-500);
+  --light-colour: var(--grey-600);
+  --light-dark-colour: var(--grey-700);
+  --light-darker-colour: var(--grey-800);
+  --light-darkest-colour: var(--grey-900);
+
+  --dark-lightest-colour: var(--grey-1000);
+  --dark-lighter-colour: var(--grey-1100);
+  --dark-light-colour: var(--grey-1200);
+  --dark-colour: var(--grey-1300);
+  --dark-dark-colour: var(--grey-1400);
+  --dark-darker-colour: var(--grey-1500);
+  --dark-darkest-colour: var(--black);
+
+  --red-colour: var(--red-1200);
+
+  /* Component variables */
+
+  /* Header Bar variables */
+  --header-bar-background-colour: var(--primary-colour);
+  --header-bar-menu-icon-colour: var(--light-lightest-colour);
+
+  /* Menu Pane variables */
+  --menu-pane-divider: var(--light-lighter-colour);
+  --menu-pane-menu-item-colour: var(--primary-colour);
+  --menu-pane-menu-item-selected-colour: var(--white);
+  --menu-pane-menu-item-selected-background-colour: var(--primary-colour);
+
+  --menu-pane-expanded-width: 13rem;
+  --menu-pane-collapsed-width: 3rem;
+  --menu-pane-item-height: 3rem;
+
+  /* Edit Sidebar Variables */
+  --edit-sidebar-header-padding: 1rem;
+  --edit-sidebar-header-background: var(--white);
+  --edit-sidebar-header-bottom-border: 1px solid var(--light-lightest-colour);
+
+  --edit-sidebar-header-options-border-radius: 0.75rem;
+  --edit-sidebar-header-options-border: 1px solid var(--light-lighter-colour);
+  --edit-sidebar-header-options-height: 2.25rem;
+  --edit-sidebar-header-options-width: 2.25rem;
+  --edit-sidebar-header-options-icon-colour: var(--dark-dark-colour);
+  --edit-sidebar-header-options-save-icon-font-size: 1rem;
+  --edit-sidebar-header-options-delete-icon-font-size: 0.9rem;
+  --edit-sidebar-header-options-close-icon-font-size: 1.25rem;
+
+  --edit-sidebar-loading-spinner-height: 2.25rem;
+  --edit-sidebar-loading-spinner-width: 2.25rem;
+
+  --edit-sidebar-body-padding: 1rem;
+
+  /* Datatable Variables */
+
+  // Datatable Filter Feedback
+  --datatable-filter-feedback-container-margin: 0 0 1.5rem 0;
+
+  --datatable-filter-feedback-border-radius: 0.5rem;
+  --datatable-filter-feedback-padding: 0.5rem;
+  --datatable-filter-feedback-border: 1px solid var(--light-lighter-colour);
+  --datatable-filter-feedback-background-colour: var(--white);
+  --datatable-filter-feedback-gap: 0.25rem;
+
+  --datatable-filter-feedback-label-font-weight: 700;
+  --datatable-filter-feedback-label-font-size: 0.75rem;
+
+  --datatable-filter-feedback-filters-container-gap: 0.25rem;
+  --datatable-filter-feedback-group-label-font-size: 0.75rem;
+  --datatable-filter-feedback-group-label-margin: 1rem;
+
+  --datatable-filter-feedback-clear-button-font-family: "Poppins";
+  --datatable-filter-feedback-clear-button-font-size: 0.75rem;
+  --datatable-filter-feedback-clear-button-border-radius: 0.25rem;
+  --datatable-filter-feedback-clear-button-border: none;
+  --datatable-filter-feedback-clear-button-background-colour: var(--primary-colour);
+  --datatable-filter-feedback-clear-button-font-colour: var(--white);
+  --datatable-filter-feedback-clear-button-padding: 0.25rem;
+
+  // Datatable Tabs
+  --datatable-tabs-padding: 1rem 1.5rem;
+  --datatable-tabs-border-radius: 0.5rem;
+  --datatable-tabs-selected-tab-background-colour: var(--white);
+
+  --datatable-tabs-label-font-size: 0.75rem;
+  --datatable-tabs-label-font-weight: 700;
+  --datatable-tabs-label-font-colour: var(--dark-dark-colour);
+
+  // Datatable Filter Button
+  --datatable-filer-button-margin-bottom: 0.625rem;
+  --datatable-filer-button-gap: 0.375rem;
+  --datatable-filer-button-border-radius: 0.5rem;
+  --datatable-filer-button-border: 1px solid var(--light-lighter-colour);
+  --datatable-filer-button-padding: 0.5rem 1rem;
+  --datatable-filer-button-background-colour: var(--white);
+
+  --datatable-filter-button-icon-colour: var(--dark-dark-colour);
+  --datatable-filter-button-icon-font-size: 0.625rem;
+
+  --datatable-filter-button-label-font-weight: 700;
+  --datatable-filter-button-label-font-size: 0.5rem;
+  --datatable-filter-button-label-font-colour: var(--dark-dark-colour);
+
+  // Datatable Filter Menu
+  --datatable-filter-menu-width: 30rem;
+
+  --datatable-filter-menu-header-border-bottom: 1px solid var(--light-lightest-colour);
+  --datatable-filter-menu-header-padding: 0 1rem 1rem 1rem;
+  --datatable-filter-menu-header-margin: 0 0 1rem 0;
+
+  --datatable-filter-menu-header-label-font-size: 1rem;
+  --datatable-filter-menu-header-label-font-weight: 700;
+
+  --datatable-filter-menu-header-close-button-padding: 0.25rem;
+  --datatable-filter-menu-header-close-button-border-radius: 0.25rem;
+  --datatable-filter-menu-header-close-button-hover-background-colour: var(--light-lightest-colour);
+  --datatable-filter-menu-header-close-button-icon-font-size: 1.5rem;
+
+  --datatable-filter-menu-tabs-container-padding: 0 0 0 0.5rem;
+
+  --datatable-filter-menu-tabs-padding: 0.5rem;
+  --datatable-filter-menu-tabs-border-radius: 0.5rem;
+  --datatable-filter-menu-tabs-selected-tab-background-colour: var(--primary-colour);
+
+  --datatable-filter-menu-tabs-label-font-size: 0.75rem;
+  --datatable-filter-menu-tabs-label-font-weight: 700;
+  --datatable-filter-menu-tabs-label-font-colour: var(--primary-colour);
+  --datatable-filter-menu-tabs-label-selected-tab-font-colour: var(--white);
+
+  --datatable-filter-menu-filters-container-padding: 0.5rem;
+  --datatable-filter-menu-filters-container-max-height: 20rem;
+  --datatable-filter-menu-fitlers-container-border: 1px solid var(--light-colour);
+  --datatable-filter-menu-fitlers-container-border-radius: 0.5rem;
+
+  --datatable-filter-menu-column-filters-container-gap: 0.5rem;
+  --datatable-filter-menu-column-filters-container-padding: 0.5rem 0;
+  --datatable-filter-menu-column-filters-container-border-bottom: 1px solid var(--light-colour);
+  
+  --datatable-filter-menu-column-filters-header-gap: 0.5rem;
+  --datatable-filter-menu-column-filters-header-label-font-size: 1rem;
+  --datatable-filter-menu-column-filters-header-label-font-weight: 700;
+  --datatable-filter-menu-column-filters-header-delete-filter-button-container-padding: 0.25rem;
+  --datatable-filter-menu-column-filters-header-delete-filter-button-container-border-radius: 0.25rem;
+  --datatable-filter-menu-column-filters-header-delete-filter-button-container-hover-background-colour: var(--light-lightest-colour);
+  --datatable-filter-menu-column-filters-header-delete-filter-button-icon-colour: var(--red-colour);
+  --datatable-filter-menu-column-filters-header-delete-filter-button-icon-font-size: 1rem;
+
+  --datatable-filter-menu-column-filters-filter-condition-container-width: 8rem;
+  
+  --datatable-filter-menu-column-filters-rules-container-padding: 0.5rem 0;
+  --datatable-filter-menu-column-filters-rules-container-gap: 0.5rem;
+
+  --datatable-filter-menu-column-filters-rule-gap: 0.5rem;
+  --datatable-filter-menu-column-filters-rule-operator-width: 12.5rem;
+  --datatable-filter-menu-column-filters-rule-value-container-width: 12.5rem;
+  --datatable-filter-menu-column-filters-rule-value-container-gap: 0.5rem;
+  --datatable-filter-menu-column-filters-rule-delete-filter-rule-button-padding: 0.25rem;
+  --datatable-filter-menu-column-filters-rule-delete-filter-rule-button-border-radius: 0.25rem;
+  --datatable-filter-menu-column-filters-rule-delete-filter-rule-button-hover-background-colour: var(--light-lightest-colour);
+  --datatable-filter-menu-column-filters-rule-delete-filter-rule-button-icon-colour: var(--red-colour);
+  --datatable-filter-menu-column-filters-rule-delete-filter-rule-button-icon-font-size: 1rem;
+
+  --datatable-filter-menu-column-filters-add-filter-rule-button-background-colour: var(--primary-colour);
+  --datatable-filter-menu-column-filters-add-filter-rule-button-font-colour: var(--white);
+  --datatable-filter-menu-column-filters-add-filter-rule-button-gap: 0.5rem;
+  --datatable-filter-menu-column-filters-add-filter-rule-button-padding: 0.5rem;
+  --datatable-filter-menu-column-filters-add-filter-rule-button-border-radius: 0.5rem;
+  --datatable-filter-menu-column-filters-add-filter-rule-button-label-font-size: 0.75rem;
+  --datatable-filter-menu-column-filters-add-filter-rule-button-label-font-weight: 700;
+
+  --datatable-filter-menu-add-filter-container-padding: 0.5rem 0;
+  --datatable-filter-menu-add-filter-container-gap: 0.5rem;
+  --datatable-filter-menu-add-filter-label-font-weight: 700;
+
+  --datatable-filter-menu-footer-padding: 0.5rem 0;
+  --datatable-filter-menu-footer-gap: 0.5rem;
+
+  --datatable-filter-menu-footer-button-height: 2.5rem;
+  --datatable-filter-menu-footer-button-width: 6.25rem;
+  --datatable-filter-menu-footer-button-border-radius: 0.5rem;
+  --datatable-filter-menu-footer-button-font-size: 0.625rem;
+  --datatable-filter-menu-footer-button-font-weight: 700;
+
+  --datatable-filter-menu-footer-apply-button-background-colour: var(--primary-colour);
+  --datatable-filter-menu-footer-apply-button-border: var(--primary-colour);
+  --datatable-filter-menu-footer-apply-button-font-colour: var(--white);
+
+  --datatable-filter-menu-footer-clear-button-background-colour: var(--white);
+  --datatable-filter-menu-footer-clear-button-border: 1px solid var(--red-colour);
+  --datatable-filter-menu-footer-clear-button-font-colour: var(--red-colour);
+
+  --datatable-filter-menu-field-border-radius: 0.5rem;
+  --datatable-filter-menu-field-border: 1px solid var(--light-light-colour);
+  --datatable-filter-menu-field-text-font-size: 0.75rem;
+  --datatable-filter-menu-field-text-font-colour: var(--dark-lightest-colour);
+
+  // Datatable Container
+  --datatable-container-padding: 1.5rem;
+  --datatable-container-background-colour: var(--white);
+  --datatable-container-border-radius: 0.5rem;
+
+  // Datatable Header
+  --datatable-header-border-radius: 0.25rem;
+  --datatable-header-background-colour: var(--light-lightest-colour);
+  --datatable-header-max-height: 56px;
+
+  --datatable-header-cell-padding: 0.5rem;
+  --datatable-header-cell-content-gap: 0.25rem;
+  --datatable-header-cell-content-font-colour: var(--dark-dark-colour);
+  --datatable-header-cell-sort-background-colour: var(--primary-colour);
+  --datatable-header-cell-sort-font-colour: var(--white);
+  --datatable-header-cell-content-sort-index-font-size: 0.75rem;
+
+  --datatable-header-cell-label-font-size: 0.75rem;
+  --datatable-header-cell-label-font-weight: 600;
+  --datatable-header-cell-label-line-height: 0.75rem;
+  --datatable-header-cell-label-number-of-lines: 3;
+
+  // Datatable Body
+  --datatable-body-row-border-radius: 0.25rem;
+  --datatable-body-row-alternate-background-colour: var(--grey-100);
+  --datatable-body-row-gap: 1rem;
+  --datatable-body-row-min-height: 64px;
+
+  --datatable-body-cell-padding: 23px 0.5rem;
+  --datatable-body-cell-font-size: 0.75rem;
+
+  // Datatable Row Selection Column
+  --datatable-row-selection-column-width: 40px;
+
+  --datatable-row-selection-header-padding: 0.25rem;
+
+  --datatable-row-selection-padding: 22px 0.5rem;
+
+  // Datatable Row Expansion Column
+  --datatable-row-expansion-column-width: 60px;
+
+  --datatable-row-expansion-header-padding: 0.25rem;
+
+  --datatable-row-expansion-header-buttons-gap: 0.25rem;
+  --datatable-row-expansion-header-buttons-padding: 0.25rem;
+  --datatable-row-expansion-header-buttons-border-radius: 0.25rem;
+  --datatable-row-expansion-header-buttons-hover-background-colour: var(--light-lighter-colour);
+
+  --datatable-row-expansion-size: 32px;
+  --datatable-row-expansion-padding: 16px 0.5rem;
+  --datatable-row-expansion-border-radius: calc(var(--datatable-row-expansion-size) / 2);
+  --datatable-row-expansion-background-colour: var(--primary-colour);
+  --datatable-row-expansion-transition: all 0.1s linear;
+
+  --datatable-row-expansion-chevron-icon-colour: var(--white);
+  --datatable-row-expansion-chevron-icon-font-size: 10px;
+  --datatable-row-expansion-chevron-icon-margin: 0 -1px;
+
+  // Datatable Paginator
+  --datatable-paginator-padding: 0.5rem 0 0 0;
+
+  /* Paginator Variables */
+  --paginator-gap: 0.5rem;
+
+  --paginator-items-per-page-container-gap: 0.5rem;
+  --paginator-items-per-page-label-font-size: 0.75rem;
+
+  --paginator-current-items-label-font-size: 0.75rem;
+  --paginator-current-items-label-min-width: 6rem;
+
+  --paginator-navigation-container-gap: 0.5rem;
+  --paginator-navigation-button-background-colour: transparent;
+  --paginator-navigation-button-border: none;
+  --paginator-navigation-button-border-radius: 0.5rem;
+  --paginator-navigation-button-min-height: 1.5rem;
+  --paginator-navigation-button-min-width: 1.5rem;
+  --paginator-navigation-button-padding: 0.25rem;
+  --paginator-navigation-button-hover-background-colour: var(--light-lightest-colour);
+  --paginator-navigation-button-selected-page-background-colour: var(--primary-colour);
+  --paginator-navigation-button-selected-page-font-colour: var(--white);
+
+  --paginator-navigation-icon-font-size: 1.25rem;
+  --paginator-navigation-icon-colour: var(--dark-lightest-colour);
+  --paginator-navigation-icon-disabled-colour: var(--light-lighter-colour);
+
+  --paginator-field-border-radius: 0.5rem;
+  --paginator-field-border: 1px solid var(--light-light-colour);
+  --paginator-field-text-font-size: 0.75rem;
+  --paginator-field-text-font-colour: var(--dark-lightest-colour);
+}
